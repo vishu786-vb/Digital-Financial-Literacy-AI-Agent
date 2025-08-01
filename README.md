@@ -8,7 +8,7 @@
 ### IBM Watsonx.ai Studio
 ### IBM Granite Foundation Model (LLM)
 ### Vector Index for Retrieval-Augmented Generation
-### PDF documents from RBI/NPCI & other related sourses
+### PDF documents from RBI/NPCI & other related sources
 ### NLP (Natural Language Processing)
 ### IBM Cloud Object Storage
 ## ☁️ IBM Cloud Services Used
@@ -68,7 +68,7 @@
 ### Multilingual expansion with Watson Language Translator
 ## ⚖️ License
 ### This project is licensed under the MIT License.
-## <a href="www.linkedin.com/in/varun-bisoi-077443171"> Connect with me on Linkedin </a>
+## <a href="www.linkedin.com/in/varun-bisoi-077443171" /> Connect with me on Linkedin
  
 
 
