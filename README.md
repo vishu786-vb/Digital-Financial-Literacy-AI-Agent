@@ -66,12 +66,6 @@
 ### Automatic monthly report generation
 ### Region-specific financial policy updates
 ### Multilingual expansion with Watson Language Translator
-## 🔗 Useful Links
-### IBM Cloud Lite
-### IBM Watsonx.ai
-### RBI Official Website
-### NPCI FAQs
-### IBM SkillsBuild
 ## ⚖️ License
 ### This project is licensed under the MIT License.
 
