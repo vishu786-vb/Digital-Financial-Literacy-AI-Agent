@@ -67,7 +67,7 @@
 ### Region-specific financial policy updates
 ### Multilingual expansion with Watson Language Translator
 ## ⚖️ License
-### This project is licensed under the MIT License.
+### This project is licensed under the <a href = "https://github.com/vishu786-vb/Digital-Financial-Literacy-AI-Agent/blob/main/LICENSE">MIT License</a>.
 ## <a href="https://www.linkedin.com/in/varun-bisoi-077443171"> Connect with me on Linkedin</a>
  
 
