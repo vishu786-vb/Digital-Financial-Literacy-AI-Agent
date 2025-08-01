@@ -68,6 +68,8 @@
 ### Multilingual expansion with Watson Language Translator
 ## ⚖️ License
 ### This project is licensed under the MIT License.
+## <a href="www.linkedin.com/in/varun-bisoi-077443171"> Connect with me on Linkedin </a>
+ 
 
 
 
