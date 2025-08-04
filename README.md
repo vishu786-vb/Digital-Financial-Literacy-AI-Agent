@@ -1,7 +1,7 @@
 # 💬 Digital-Financial-Literacy-AI-Agent
 ####  An AI-powered assistant designed to help users understand and navigate digital finance safely. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this intelligent agent provides multilingual support and trustworthy guidance on UPI, interest rates, stock market, personal finance, investing , loan safety, fraud prevention, online scams and more.
 ## 🧩 Problem Statement
-#### Many individuals, especially from rural or digitally underserved areas, lack financial literacy. They struggle with understanding UPI, online scams, interest rates, or personal budgeting. This can lead to fraud, poor money management, or digital exclusion.
+#### In many rural and digitally underserved areas, people often lack the financial literacy needed to navigate the digital world. They face difficulties understanding systems like UPI, interest rates, personal budgeting, and are especially vulnerable to online scams and fraud. This lack of awareness leads to financial mistakes, digital exclusion, and loss of trust in digital services.
 ## 💡 Proposed Solution
 ### An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based answers about digital finance. With multilingual support and document retrieval (RAG), it ensures users receive grounded, easy-to-understand financial guidance.
 ## 🧠 Technologies Used
